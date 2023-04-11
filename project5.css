@@ -1,0 +1,38 @@
+.judul{
+    text-align: center;
+    padding-top: 120px;
+}
+.atas{
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 770px;
+}
+
+.isi{
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.kurma{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+.keluar{
+    padding-bottom: 10px;
+    padding-left: 157px;
+    padding-right: 157px;
+}
+
+.keluar2{
+    padding-bottom: 10px;
+}
